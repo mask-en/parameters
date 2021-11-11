@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#parameters.sh varArg...
 
 function outputarg() {
     echo "\$0 = $0"                                                      
